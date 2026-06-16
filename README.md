@@ -96,7 +96,7 @@ Dự án được thực hiện bởi nhóm 3 thành viên, phối hợp phát t
   * **Nghiệp vụ Hóa đơn & Thu phí:** Lập hóa đơn dịch vụ hàng tháng (áp dụng tính tiền điện/nước theo đơn giá lũy tiến), Ghi nhận tiền phạt cơ sở vật chất, Cập nhật trạng thái đã thu tiền và Đánh dấu hóa đơn quá hạn.
   * **Lọc dữ liệu & Thống kê:** Xây dựng thuật toán quét và trích xuất danh sách sinh viên nợ phí quá hạn, Tính toán tỷ lệ lấp đầy thực tế của từng loại phòng trong hệ thống.
 
-* **Nguyễn Thị Diệu  - Phụ trách Giao diện Menu, Kiểm thử & Báo cáo**
+* **Nguyễn Thị Diệu Linh - Phụ trách Giao diện Menu, Kiểm thử & Báo cáo**
   * **Giao diện Console:** Thiết kế hệ thống Menu điều hướng phân tầng (Menu chính -> Menu con Quản lý SV / Phòng / Hóa đơn / Thống kê).
   * **Bắt lỗi nhập liệu:** Lập trình cơ chế bảo vệ luồng nhập xuất (dùng `cin.clear()`, `cin.ignore()`) để chống crash hệ thống khi nhập sai kiểu dữ liệu (chữ vào số), và rào chắn logic.
   * **Trình bày Thống kê:** Tiếp nhận dữ liệu trả về từ khối nghiệp vụ, thiết kế giao diện bảng biểu thống kê tự động căn lề chuẩn xác (`setw`) và in tỷ lệ %.
