@@ -1,10 +1,10 @@
-# Hệ thống Quản lý Ký Túc Xá (Dorm Management System)
+# Hệ thống Quản lý Ký Túc Xá
 
-Một ứng dụng Console viết bằng C++ thuần (Standard C++), được thiết kế theo kiến trúc phân lớp (Layered Architecture) chuẩn mực. Dự án quản lý sinh viên, phòng ở, hợp đồng và hóa đơn dịch vụ, sử dụng các cấu trúc dữ liệu và thuật toán tự xây dựng (không dùng STL) nhằm tối ưu hóa hiệu năng quản lý bộ nhớ. Đây là project cuối kì môn Kỹ thuật lập trình tại Đại học Bách khoa Hà Nội.
+Một ứng dụng Console viết bằng C++ thuần (Standard C++), được thiết kế theo kiến trúc phân lớp chuẩn mực. Dự án quản lý sinh viên, phòng ở, hợp đồng và hóa đơn dịch vụ, sử dụng các cấu trúc dữ liệu và thuật toán tự xây dựng (không dùng STL) nhằm tối ưu hóa hiệu năng quản lý bộ nhớ. Đây là project cuối kì môn Kỹ thuật lập trình tại Đại học Bách khoa Hà Nội.
 
 ## Tính năng nổi bật
 
-* **Quản lý danh mục:** Thêm, sửa, xóa, và tìm kiếm thông tin Sinh viên, Phòng ở với tính năng tự động chuẩn hóa chuỗi đầu vào (String Normalization).
+* **Quản lý danh mục:** Thêm, sửa, xóa, và tìm kiếm thông tin Sinh viên, Phòng ở với tính năng tự động chuẩn hóa chuỗi đầu vào.
 * **Nghiệp vụ Thuê phòng:** Xử lý đăng ký phòng, tự động khóa giới tính phòng động, chuyển phòng và gia hạn hợp đồng. Hỗ trợ **Thuật toán xếp phòng tự động** dựa trên diện ưu tiên.
 * **Quản lý Hóa đơn:** Lập hóa đơn tự động tính tiền điện nước theo bậc thang, ghi nhận tiền phạt, và đánh dấu công nợ quá hạn.
 * **Báo cáo Thống kê:** Thống kê tỷ lệ lấp đầy KTX theo loại phòng và trích xuất danh sách sinh viên nợ phí.
