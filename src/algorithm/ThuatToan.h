@@ -121,8 +121,8 @@ inline int timSVTheoTen(const DanhSachCustom<SinhVien>& ds, const std::string& h
 
 inline int doUuTien(const std::string& dien)
 {
-    if (dien == "chinh_sach") return 0;  // thương binh, người có công với cách mạng...
-    if (dien == "uu_tien")    return 1;  // sinh viên đỗ nghèo khỉ, sinh viên toán tin phải học gts
+    if (dien == "chinh_sach") return 0;  // thương binh, người có công với cách mạng
+    if (dien == "uu_tien")    return 1;  // sinh viên nghèo
     return 2;                             // bình thường
 }
 
