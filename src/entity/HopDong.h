@@ -10,8 +10,8 @@ private:
     std::string maHopDong;   // Khóa chính
     std::string mssv;        // Khóa ngoại
     std::string maPhong;     // Khóa ngoại
-    std::string ngayBatDau;  // "yyyy/mm/dd"
-    std::string ngayKetThuc; // "yyyy/mm/dd"
+    std::string ngayBatDau;  // "dd/mm/yyyy"
+    std::string ngayKetThuc; // "dd/mm/yyyy"
     std::string trangThai;   // "con_hieu_luc" or "het_han" or "da_huy"
     
     double tienPhongKy;      
