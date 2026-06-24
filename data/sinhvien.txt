@@ -1,11 +1,11 @@
-202200004, Nguyen Minh Hang, Nu, 10/11/2006, ET1, 0987654321, hang.min@gmail.com, P102, binh_thuong
-202200008, Phan Le Vy Thanh, Nam, 18/06/2005, MI1, 0944332211, thanh.cris@gmail.com, P101, chinh_sach
-202300003, Hoang Thuy Linh, Nu, 20/08/2007, IT1, 0912233444, linh.hoangthuy@gmail.com, P102, uu_tien
-202300007, Nguyen Thao Linh, Nu, 15/10/2006, IT1, 0966554433, linh.tlinh@gmail.com, P102, binh_thuong
-20231001, Son Hueng Min, Nam, 08/07/1992, ITE10, 0886699120, sonnyspur@epl.com, P101, binh_thuong
-202410001, Nguyen Thanh Tung, Nam, 15/05/2006, PH1, 0901234567, tung.sontung@gmail.com, P101, chinh_sach
-202410005, Bui Bich Phuong, Nu, 25/03/2005, IT2, 0933445566, phuong.bich@gmail.com,, chinh_sach
-202410009, Le Thien Thanh, Nam, 20/10/2006, MI1, 0955667788, thanh.toc@gmail.com,, binh_thuong
-202500002, Nguyen Duc Cuong, Nam, 12/09/2005, IT2, 0907654321, cuong.denvau@gmail.com, P101, binh_thuong
-202500006, Nguyen Viet Hoang, Nam, 02/01/2007, EE2, 0977889900, hoang.mono@gmail.com, P103, uu_tien
-202500010, Tran Thu Ha, Nu, 11/11/2005, ITE7, 0999888777, ha.tran@gmail.com,, uu_tien
+202200004,Nguyen Minh Hang,Nu,10/11/2006,ET1,0987654321,hang.min@gmail.com,P102,binh_thuong
+202200008,Phan Le Vy Thanh,Nam,18/06/2005,MI1,0944332211,thanh.cris@gmail.com,P101,chinh_sach
+202300003,Hoang Thuy Linh,Nu,20/08/2007,IT1,0912233444,linh.hoangthuy@gmail.com,P102,uu_tien
+202300007,Nguyen Thao Linh,Nu,15/10/2006,IT1,0966554433,linh.tlinh@gmail.com,P102,binh_thuong
+20231001,Son Hueng Min,Nam,08/07/1992,ITE10,0886699120,sonnyspur@epl.com,P101,binh_thuong
+202410001,Nguyen Thanh Tung,Nam,15/05/2006,PH1,0901234567,tung.sontung@gmail.com,P101,chinh_sach
+202410005,Bui Bich Phuong,Nu,25/03/2005,IT2,0933445566,phuong.bich@gmail.com,,chinh_sach
+202410009,Le Thien Thanh,Nam,20/10/2006,MI1,0955667788,thanh.toc@gmail.com,,binh_thuong
+202500002,Nguyen Duc Cuong,Nam,12/09/2005,IT2,0907654321,cuong.denvau@gmail.com,P101,binh_thuong
+202500006,Nguyen Viet Hoang,Nam,02/01/2007,EE2,0977889900,hoang.mono@gmail.com,P103,uu_tien
+202500010,Tran Thu Ha,Nu,11/11/2005,ITE7,0999888777,ha.tran@gmail.com,,uu_tien
